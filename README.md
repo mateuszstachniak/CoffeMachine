@@ -1,9 +1,9 @@
-# Coffe Machine
+# Coffee Machine
 
 # Assumption
 
-The program allows the user to:\
--enter how much supplies the coffe machine has for brewing coffe\
--check how much coffe can coffe machine make (based on user intput)\
+Now the program allows the user to:\
+-make coffee, fill resources of the machine, take profit\
+-when user want to make coffee he can choose between espresso, latte and cappucino\
 
 
